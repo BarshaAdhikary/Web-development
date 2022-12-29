@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Caveat";
+    background-color: steelblue;
+
+}
+header{
+    background-color: steelblue;
+    height: 100vh;
+}
+.main{
+    text-align: center;
+    padding-top: 40px;
+}
+
+main.h1{
+    font-size: 50px;
+}
+
+
+img{
+    height: 50vh;
+    width: 20vw;
+}
+.picture{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+.picture-1{
+    text-align: center;
+}
+h3{
+    padding-top: 20px;   
+}
+
+
